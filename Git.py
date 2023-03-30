@@ -57,5 +57,5 @@ class Sniper(Shooter):
 # print(bot2.get_character())
 bot3 = Sniper("Shooter", 99, "Female", "Targets_from_a_distance", "Change the mount and avoiding damage.")
 print(bot3.get_character())
-print(bot3.set_character("Centaur"))
+print(bot3.set_character("Centaur 3"))
 print(bot3.get_character())
